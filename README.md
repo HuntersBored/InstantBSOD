@@ -7,7 +7,7 @@ __________
 
 1. Download The File "InstantBSOD.bat"
 2. Open The File As Administrator
-3. Allow to "make changes to your device
+3. Allow to "make changes to your device"
 
 
 Enjoy the bluescreen!
